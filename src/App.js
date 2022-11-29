@@ -147,8 +147,10 @@ function App() {
               {/* <h2 className="text-4xl font-bold">Filtering</h2> */}
               {/* iterate through and display the cart */}
               <SortBar sortBy={sortBy} changeSort={setSortBy} />
+            
               <FilterBar activeFilters={activeFilters} addFilter={addFilterToActive} removeFilter={removeFilterFromActive} />
               <FilterBarTwo activeFilters={colorFilters} addFilter={addFilteredColor} removeFilter={removeFilteredColor} />
+              <button type="button" className="inline-flex w-5/6 items-center rounded-md border border-transparent bg-red-600 px-3 py-2 text-sm font-medium leading-4 text-white shadow-sm hover:bg-red-700 focus:outline-none focus:ring-2 focus:blue-red-500 focus:ring-offset-2" onClick={(e) => {setActiveFilters([]); setColorFilters([])}}>Reset all Filters</button>
               <FavoriteBar setShowFavorites={setShowOnlyFavorites}  />
               <div className="p-4">
                 <p className="font-medium text-gray-900">Favorites Summary: </p>
