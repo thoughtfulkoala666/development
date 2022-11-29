@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Piano Man",
+    "artist": "Billy Joel",
+    "description": "Piano Man is the second studio album by American recording artist Billy Joel, released on November 9, 1973, by Columbia Records. The album emerged from legal difficulties with Joel's former label, Family Productions, and ultimately became his first breakthrough album.",
+    "num_songs": 10,
+    "length_in_seconds": 2571,
+    "release_date": "1973-11-09",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "image": "images/piano-man.png",
+    "album_colors" : [
+      "black",
+      "white",
+      "gray"
+    ]
+  },
+  {
+    "name": "Discovery",
+    "artist": "Daft Punk",
+    "description": "Discovery is the second studio album by French electronic music duo Daft Punk, released on 12 March 2001 by Virgin Records. It marks a shift from the Chicago house sound prevalent on their first studio record, Homework (1997), to a house style more heavily inspired by disco, post-disco, garage house, and R&B.",
+    "num_songs": 14,
+    "length_in_seconds": 3650,
+    "release_date": "2001-03-12",
+    "genres": [
+      "electronic",
+      "dance"
+    ],
+
+    "image": "images/discovery.png",
+    "album_colors" : [
+      "black",
+      "white",
+      "silver",
+      "rainbow"
+    ]
+  },
+  {
+    "name": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "description": "The Dark Side of the Moon is the eighth studio album by the English rock band Pink Floyd, released on 1 March 1973 by Harvest Records. It built on ideas explored in their earlier recordings and live shows, and incorporated progressive rock, psychedelic rock, and classical music influences.",
+    "num_songs": 9,
+    "length_in_seconds": 2310,
+    "release_date": "1973-03-01",
+    "genres": [
+      "rock",
+      "progressive rock"
+    ],
+    "image": "images/the-dark-side-of-the-moon.png",
+    "album_colors" : [
+      "black",
+      "white",
+      "silver",
+      "rainbow"
+    ]
+  },
+  {
+   "name": "The Wall",
+    "artist": "Pink Floyd",
+    "description": "The Wall is the eleventh studio album by the English rock band Pink Floyd, released on 30 November 1979 by Harvest Records. It is a rock opera that explores Pink, a jaded rock star whose eventual self-imposed isolation from society is symbolised by a wall.",
+    "num_songs": 26,
+    "length_in_seconds": 4842,
+    "release_date": "1979-11-30",
+    "genres": [
+      "rock",
+      "progressive rock"
+    ],
+    "image": "images/the-wall.png",
+    "album_colors" : [
+      "white",
+      "gray"
+    ]
+  },
+  {
+    "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+    "artist": "David Bowie",
+    "description": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars is the fifth studio album by English singer-songwriter David Bowie, released on 6 June 1972 by RCA Records. It was recorded in early 1972 at Trident Studios in London, and produced by Bowie and Ken Scott.",
+    "num_songs": 10,
+    "length_in_seconds": 2319,
+    "release_date": "1972-06-06",
+    "genres": [
+      "rock",
+      "art rock"
+    ],
+    "image": "images/the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars.png",
+    "album_colors" : [
+      "black",
+      "orange",
+      "yellow"
+    ]
+  },
+  {
+    "name": "Abbey Road",
+    "artist": "The Beatles",
+    "description": "Abbey Road is the eleventh studio album by the English rock band the Beatles, released on 26 September 1969 by Apple Records. It was the final Beatles album to be released, and was also their most commercially successful.",
+    "num_songs": 17,
+    "length_in_seconds": 2822,
+    "release_date": "1969-09-26",
+    "genres": [
+      "rock",
+      "pop"
+    ],
+    "image": "images/abbey-road.png",
+    "album_colors" : [
+      "blue",
+      "white",
+      "gray",
+      "green"
+    ]
+  },
+  {
+    "name": "For Lack of a Better Name",
+    "artist": "deadmau5",
+    "description": "For Lack of a Better Name is the debut studio album by Canadian electronic music producer deadmau5. It was released on 6 October 2008 by Ultra Records. The album was preceded by the release of the single \"Faxing Berlin\".",
+    "num_songs": 10,
+    "length_in_seconds": 3952,
+    "release_date": "2008-10-06",
+    "genres": [
+      "electronic",
+      "dance"
+    ],
+    "image": "images/for-lack-of-a-better-name.png",
+    "album_colors" : [
+      "black",
+      "white",
+      "blue"
+    ]
+  },
+  {
+    "artist": "Skrillex",
+    "name": "Scary Monsters and Nice Sprites",
+    "description": "Scary Monsters and Nice Sprites is the debut studio album by American electronic music producer Skrillex. It was released on 12 November 2010 by Big Beat Records and Atlantic Records. The album was preceded by the release of the single \"Scary Monsters and Nice Sprites\".",
+    "num_songs": 10,
+    "length_in_seconds": 2642,
+    "release_date": "2010-11-12",
+    "genres": [
+      "electronic",
+      "dance"
+    ],
+    "image": "images/scary-monsters-and-nice-sprites.png",
+    "album_colors" : [
+      "black",
+      "green",
+      "red"
+    ]
+  },
+  {
+    "artist" : "Taylor Swift",
+    "name" : "reputation",
+    "description" : "reputation is the sixth studio album by American singer-songwriter Taylor Swift. It was released on November 10, 2017, through Big Machine Records. Swift began planning the album in 2014, during the recording of her fifth studio album 1989 (2014).",
+    "num_songs" : 15,
+    "length_in_seconds" : 3570,
+    "release_date" : "2017-11-10",
+    "genres" : [
+      "pop",
+      "country"
+    ],
+    "image" : "images/reputation.png",
+    "album_colors" : [
+      "black",
+      "white"
+    ]
+  },
+  {
+    "name" : "Cannibal",
+    "artist" : "Ke$ha",
+    "description" : "Cannibal is the second studio album by American singer Ke$ha. It was released on March 22, 2010, by RCA Records. The album was preceded by the release of the lead single \"Blah Blah Blah\".",
+    "num_songs" : 12,
+    "length_in_seconds" : 2700,
+    "release_date" : "2010-03-22",
+    "genres" : [
+      "pop",
+      "dance"
+    ],
+    "image" : "images/cannibal.png",
+    "album_colors" : [
+      "black",
+      "blue",
+      "yellow"
+    ]
+
+  },
+  {
+    "name" : "A Night at The Opera",
+    "artist" : "Queen",
+    "description" : "A Night at the Opera is the fourth studio album by the British rock band Queen. It was recorded at Trident Studios in London, and was produced by Roy Thomas Baker and Queen. It was released on 21 November 1975 by EMI Records in the United Kingdom and by Elektra Records in the United States.",
+    "num_songs" : 12,
+    "length_in_seconds" : 2580,
+    "release_date" : "1975-11-21",
+    "genres" : [
+      "rock",
+      "pop"
+    ],
+    "image" : "images/a-night-at-the-opera.png",
+    "album_colors" : [
+      "pink",
+      "white",
+      "blue"
+    ]
+  }, 
+  {
+    "name" : "In My Room",
+    "artist" : "Jacob Collier",
+    "description" : "In My Room is the debut studio album by English singer-songwriter Jacob Collier. It was released on 1 June 2018 by AWAL Recordings. The album was preceded by the release of the single \"All I Need\".",
+    "num_songs" : 10,
+    "length_in_seconds" : 2700,
+    "release_date" : "2018-06-01",
+    "genres" : [
+      "jazz",
+      "pop"
+    ],
+    "image" : "images/in-my-room.png",
+    "album_colors" : [
+      "orange",
+      "white",
+      "blue"
+    ]
+  }
+
+]
